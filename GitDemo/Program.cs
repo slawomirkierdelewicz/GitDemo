@@ -10,7 +10,7 @@ namespace GitDemo
             Console.WriteLine("jagiellonia");
              Console.WriteLine("trufla");
             Console.WriteLine("Dex");
-            
+            Console.ReadKey();
         }
     }
 }
