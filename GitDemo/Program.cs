@@ -12,6 +12,7 @@ namespace GitDemo
             Console.WriteLine("Dex");
             Console.WriteLine("Harry");
             Console.WriteLine("Kropka");
+            Console.WriteLine("3");
             Console.ReadKey();
         }
     }
