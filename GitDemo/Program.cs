@@ -7,12 +7,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("jagiellonia");
-             Console.WriteLine("trufla");
-            Console.WriteLine("Dex");
-            Console.WriteLine("Harry");
-            Console.WriteLine("Kropka");
-            Console.WriteLine("3");
+       
             Console.ReadKey();
         }
     }
