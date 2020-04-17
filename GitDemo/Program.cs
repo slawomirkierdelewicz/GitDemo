@@ -9,6 +9,7 @@ namespace GitDemo
             Console.WriteLine("Hello World!");
             Console.WriteLine("jagiellonia");
              Console.WriteLine("trufla");
+            Console.WriteLine("Dex");
             
         }
     }
